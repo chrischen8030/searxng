@@ -78,6 +78,8 @@ search:
   formats:
     - html
     - json
+    - csv
+    - rss
 
 server:
   # Is overwritten by ${SEARXNG_PORT} and ${SEARXNG_BIND_ADDRESS}
